@@ -1,0 +1,8 @@
+.env
+services/
+
+# Dumb shit
+.DS_Store
+
+# Binary Files
+._*
